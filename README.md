@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @ShahidInData
-- 👀 I’m interested in Data Analytics,Advanced Excel, Python for Data Science, and Power BI.
-- 🌱 I’m currently learning Business Intelligence, and Machine Learning.
-- 💞️ I’m looking to collaborate on Data-driven projects, dashboards, and business insights.
-- 📫 How to reach me LinkedIn | Email
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love turning raw data into meaningful stories!
+Hi, I’m @ShahidInData
+Passionate about Data Analytics, AI-driven insights, SQL, Python, Advanced Excel, and Power BI.
+Currently learning Business Intelligence, Machine Learning, and AI-powered data automation.
+Skilled in data cleaning, visualization, and predictive analytics to drive business decisions.
+Looking to collaborate on data-driven projects, dashboards, and AI-enhanced analytics.
+Experienced in leveraging AI in SQL, Python, and Excel for faster and smarter data analysis.
+Connect with me on LinkedIn | Email to discuss data, insights, and business intelligence.
+Fun fact: I turn complex datasets into compelling stories that drive real impact! 🚀
 
 <!---
 ShahidInData/ShahidInData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
